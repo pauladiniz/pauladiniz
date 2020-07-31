@@ -1,4 +1,5 @@
-### I'm a front end developer working for FanHero! 
+### Front end developer based in São Paulo. Passionate about coding, solving and learning! 
+(Such a cliche, I know!)
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

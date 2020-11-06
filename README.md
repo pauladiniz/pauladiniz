@@ -5,7 +5,7 @@
 
 #### 
 <div>
-<img style="width: 400px; max-width: 400px;" src="https://wakatime.com/share/@pauladiniz/c272543e-aec4-49ae-b696-eaa71f2ab1bc.svg" />
+<img style="width: 500px; max-width: 500px;" src="https://wakatime.com/share/@pauladiniz/c272543e-aec4-49ae-b696-eaa71f2ab1bc.svg" />
 </div>
 
 Here are some ideas to get you started:

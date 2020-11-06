@@ -3,6 +3,11 @@
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### 
+<div>
+<img style="width: 400px; max-width: 400px;" src="https://wakatime.com/share/@pauladiniz/c272543e-aec4-49ae-b696-eaa71f2ab1bc.svg" />
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

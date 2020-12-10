@@ -1,4 +1,4 @@
-### Front end developer based in São Paulo. I don't hate any JS framework.
+### Front end developer based in Espírito Santo. I don't hate any JS framework.
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

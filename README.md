@@ -1,12 +1,9 @@
-### Front end developer based in Espírito Santo. I don't hate any JS framework.
 
+All I wanted was to create a personal blog in 2005, so 13 year old me could have some fun after school, now here I am. 🖥️
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### 
-<div>
-<img style="width: 500px; max-width: 500px;" src="https://wakatime.com/share/@pauladiniz/c272543e-aec4-49ae-b696-eaa71f2ab1bc.svg" />
-</div>
 
 Here are some ideas to get you started:
 

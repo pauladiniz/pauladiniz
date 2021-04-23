@@ -1,5 +1,5 @@
 
-All I wanted was to create a personal blog in 2005, so 13 year old me could have some fun after school, now here I am! 🖥️
+I'm just really into cool stuff. 🖥️
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

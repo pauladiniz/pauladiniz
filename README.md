@@ -1,5 +1,9 @@
 
-Front End Developer 🖥️ ✨
+Front End Developer 🖥
+
+Currently working with: HTML + CSS + JS + VUE + GRAPHQL + POSTGRES
+
+I just like developing cool stuff, I'm not the greatest developer around, I'm not a reference, I'm just here to create amazing features for amazing companies and this is how it should be. No ego allowed, this is how I can see my flaws and improve what I already know. 
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

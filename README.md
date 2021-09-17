@@ -1,7 +1,4 @@
-
-Front End Developer 🖥
-
-Currently working with: HTML + CSS + JS + VUE + GRAPHQL + PRISMA + POSTGRES
+Good, but not great.
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

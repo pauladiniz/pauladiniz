@@ -1,4 +1,8 @@
-Good, but not great.
+Good, but not great. But good.
+
+I'm a front end developer, I love VueJS and this is the framework I chose to work with! Why? You may ask. Well, it's simple and I don't like overengineering. At the end of the day, Javascript is what really matters so we can slice stuff and filter some data. :) 
+
+I'm currently learning and improving my back end skills with NodeJS + Typescript + Prisma + GraphQL. 
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

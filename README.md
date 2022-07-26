@@ -1,3 +1,6 @@
+Created a personal blog back in 2005, hated the way it looked and found a new template, noticed that I was able to change the colors and here I am a few years later.
+
+
 JS lover, I guess. Good, but not great. 
  
 

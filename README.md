@@ -1,6 +1,6 @@
 10 years working in the field and my family still has no idea what's my actual job.
 
-My current stack is VueJS, Tailwind, Node, Prisma, GraphQL and Postgres, good stuff. :)
+My current stack is VueJS, Tailwind, Node, Prisma, GraphQL and Postgres. But honestly I just enjoy solving problems that will actually make a difference.
 
 📝 [Linkedin](https://www.linkedin.com/in/pauladinizz/)
  

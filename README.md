@@ -1,4 +1,4 @@
-Created a personal blog back in 2005, hated the way it looked and noticed that I was able to change the colors and here I am a few years, mistakes and projects later.
+10 years working in the field and my family still has no idea what's my actual job.
 
 My current stack is VueJS, Tailwind, Node, Prisma, GraphQL and Postgres, good stuff. :)
 

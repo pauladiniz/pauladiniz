@@ -1,8 +1,4 @@
-10 years working in the field and my family still has no idea what's my actual job.
-
-Most of my work is for private repos and tied to a different GH account (@itsmepaula).
-
-My current stack is VueJS, Tailwind, Node, Prisma, GraphQL and Postgres. But honestly I just enjoy solving problems that will actually make a difference.
+I'm just really into problems...And solving them.
 
 📝 [Linkedin](https://www.linkedin.com/in/pauladinizz/)
  

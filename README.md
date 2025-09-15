@@ -1,6 +1,4 @@
 I'm just really into problems...
-
-📝 [Linkedin](https://www.linkedin.com/in/pauladinizz/)
  
 
 <!--

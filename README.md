@@ -1,4 +1,4 @@
-I'm just really into problems...And solving them.
+I'm just really into problems...
 
 📝 [Linkedin](https://www.linkedin.com/in/pauladinizz/)
  

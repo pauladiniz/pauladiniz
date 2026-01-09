@@ -1,4 +1,6 @@
-I'm just really into problems.
+I'm just really into problems...and people.
+
+I build things while having fun with it, otherwise what's the point? 
  
 
 <!--

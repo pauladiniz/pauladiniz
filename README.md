@@ -1,6 +1,6 @@
 I'm just really into problems...and people.
 
-I build things while having fun with it, otherwise what's the point? 
+I do know what an event loop is (kinda, honestly), I can track down performance issues and I know how to prevent unnecessary re-renders. I also can do some cool CSS animations. 
  
 
 <!--

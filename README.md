@@ -1,4 +1,4 @@
-I'm just really into problems...and people.
+I'm just really into problems when they're not my own.
  
 
 <!--

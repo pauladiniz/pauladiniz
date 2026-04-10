@@ -1,5 +1,6 @@
 I'm just really into problems when they're not my own.
- 
+
+javascript lover, good but not great but it depends. 
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

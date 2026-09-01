@@ -1,6 +1,6 @@
-I'm just really into problems when they're not my own.
+Berlin based and São Paulo raise. Developing solutions (and some problems) since 2012. From banks to marketing agencies, passing through e-commerce and a bunch of other products, I've seen a lot of scenarios and worked with amazing teams over the past few years!
 
-javascript lover, good but not great but it depends. 
+Currently working at Noxtua, a super cool Legal AI solution in Europe.
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 Berlin based and São Paulo raised. Developing solutions (and some problems) since 2012. From banks to marketing agencies, passing through e-commerce and a bunch of other products, I've seen a lot of scenarios and worked with amazing teams over the past few years!
 
-Currently tiptapping at Noxtua, a super cool Legal AI solution in Europe. :D
+Currently tiptapping at Noxtua, a super cool Legal AI solution in Europe.
 
 <!--
 **pauladiniz/pauladiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
